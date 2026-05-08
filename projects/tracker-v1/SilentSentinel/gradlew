@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# placeholder wrapper script
+echo "Gradle wrapper not included in this scaffold. Use Android Studio or add gradle wrapper files."
